@@ -1,37 +1,41 @@
-TITLE,Added,Native 4K,Upscaled 4K,HDR,Dolby Vision,Audio,Year,Title,Year Inducted
-A League of Their Own (1992),,Native 4K,,HDR10,,"Dolby Atmos, True-HD 7.1",1992,A League of Their Own,2012
-Alien (1979),May 2022,Native 4K,,HDR10+,,5.1 DTS-HD-MA,1979,Alien,2002
-Back to the Future (1985),,Native 4K,,HDR10+,Dolby Vision,"Dolby Atmos, True-HD 7.1",1985,Back to the Future,2007
-Citizen Kane (1941),May 2022,Native 4K,,HDR10,Dolby Vision,LPCM (mono),1941,Citizen Kane,1989
-Close Encounters of the Third Kind (1977),,Native 4K,,HDR10,,5.1 DTS-HD-MA,1977,Close Encounters of the Third Kind,2007
-Double Indemnity (1944),May 2022,Native 4K,,HDR10,Dolby Vision,Mono (LPCM),1944,Double Indemnity,1992
-Dracula (1931),Aug 2022,Native 4K,,HDR10,,DTS-HD MA 2.0 Mono,1931,Dracula,2000
-Field of Dreams (1989),,Native 4K,,HDR,,"DTS: X, 7.1 DTS HD-MA",1989,Field of Dreams,2017
-Forrest Gump (1994),,Native 4K,,HDR,Dolby Vision,"Dolby Atmos, TrueHD 7.1",1994,Forrest Gump,2011
-Frankenstein (1931),Aug 2022,Native 4K,,HDR10,,DTS-HD MA 2.0,1931,Frankenstein,1991
-Ghostbusters (1984),,Native 4K,,HDR,,"Dolby Atmos, TrueHD 7.1",1984,Ghostbusters,2015
-Halloween (1978),,Native 4K,,HDR10,Dolby Vision,"DTS: X, 7.1 DTS-HD HR",1978,Halloween,2006
-It's a Wonderful Life (1946),,Native 4K,,HDR10,Dolby Vision,Dolby True-HD 2.0 Mono,1946,It's a Wonderful Life,1990
-Jaws (1975),,Native 4K,,HDR10+,Dolby Vision,"Dolby Atmos, True-HD 7.1",1975,Jaws,2001
-Jurassic Park (1993),,Native 4K,,HDR,,"DTS: X, 7.1 DTS HD-MA",1993,Jurassic Park,2018
-Lawrence of Arabia (1962),,Native 4K,,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1962,Lawrence of Arabia,1991
-Malcolm X (1992),Aug 2022,Native 4K,,HDR10,Dolby Vision,DTS-HD MA 5.1,1992,Malcolm X,2010
-My Fair Lady (1964),,Native 4K,,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1964,My Fair Lady,2018
-Pulp Fiction (1994),Aug 2022,Native 4K,,HDR10,,,1994,Pulp Fiction,2013
-Raiders of the Lost Ark (1981),,Native 4K,,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1981,Raiders of the Lost Ark,1999
-Saving Private Ryan (1998),,Native 4K,,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1998,Saving Private Ryan,2014
-Shadow of a Doubt (1943),April 2022,Native 4K,,HDR10,,DTS-HD Master Audio 2.0 Mono,1943,Shadow of a Doubt,1991
-Singin' in the Rain (1952),May 2022,Native 4K,,HDR10,,5.1 DTS-HD-MA,1952,Singin' in the Rain,1989
-Some Like It Hot (1959),May 2022,Native 4K,,HDR10,Dolby Vision,DTS-HD MA 2.0 Mono,1959,Some Like It Hot,1989
-Spartacus (1960),,Native 4K,,HDR10,Dolby Vision,"DTS:X, DTS-HD MA 7.1",1960,Spartacus,2017
-The Bridge on the River Kwai (1957),June 2022,Native 4K,,HDR,Dolby Vision,"Dolby Atmos, True-HD 7.1",1957,The Bridge on the River Kwai,1997
-The Goonies (1985),,Native 4K,,HDR10,,5.1 DTS-HD-MA,1985,The Goonies,2017
-The Invisible Man (1933),Aug 2022,Native 4K,,HDR10,,DTS-HD MA Mono,1933,The Invisible Man,2008
-The Man Who Shot Liberty Valance (1962),May 2022,Native 4K,,HDR10,Dolby Vision,True-HD 5.1,1962,The Man Who Shot Liberty Valance,2007
-The Matrix (1999),,Native 4K,,HDR,Dolby Vision,"Dolby Atmos, True-HD 7.1",1999,The Matrix,2012
-The Shining (1980),,Native 4K,,HDR10+,Dolby Vision,DTS-HD MA 5.1,1980,The Shining,2018
-The Sting (1973),,Native 4K,,HDR10,,DTS-HD MA 5.1,1973,The Sting,2005
-The Ten Commandments (1956),July 2021,Native 4K,,HDR10,Dolby Vision,DTS-HD MA 5.1,1956,The Ten Commandments,1999
-The Wizard of Oz (1939),,Native 4K,,HDR10+,Dolby Vision,DTS-HD MA 5.1,1939,The Wizard of Oz,1989
-Top Gun (1986),,Native 4K,,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1986,Top Gun,2015
-Touch of Evil (1958),April 2022,Native 4K,,HDR10,Dolby Vision,DTS-HD Master Audio 2.0 Mono,1958,Touch of Evil,1993
+TITLE,Native 4K,HDR,Dolby Vision,Audio,Year,Year Inducted
+A League of Their Own (1992),Native 4K,HDR10,,"Dolby Atmos, True-HD 7.1",1992,2012
+Alien (1979),Native 4K,HDR10+,,5.1 DTS-HD-MA,1979,2002
+Back to the Future (1985),Native 4K,HDR10+,Dolby Vision,"Dolby Atmos, True-HD 7.1",1985,2007
+Boyz n the Hood (1991),Native 4K,HDR,,"Dolby Atmos, True-HD 7.1",1991,2002
+Citizen Kane (1941),Native 4K,HDR10,Dolby Vision,LPCM (mono),1941,1989
+Close Encounters of the Third Kind (1977),Native 4K,HDR10,,5.1 DTS-HD-MA,1977,2007
+Double Indemnity (1944),Native 4K,HDR10,Dolby Vision,Mono (LPCM),1944,1992
+Dracula (1931),Native 4K,HDR10,,DTS-HD MA 2.0 Mono,1931,2000
+Field of Dreams (1989),Native 4K,HDR,,"DTS: X, 7.1 DTS HD-MA",1989,2017
+Forrest Gump (1994),Native 4K,HDR,Dolby Vision,"Dolby Atmos, TrueHD 7.1",1994,2011
+Frankenstein (1931),Native 4K,HDR10,,DTS-HD MA 2.0,1931,1991
+Ghostbusters (1984),Native 4K,HDR,,"Dolby Atmos, TrueHD 7.1",1984,2015
+GoodFellas (1990),Native 4K,HDR,,5.1 DTS-HD MA,1990,2000
+Halloween (1978),Native 4K,HDR10,Dolby Vision,"DTS: X, 7.1 DTS-HD HR",1978,2006
+It's a Wonderful Life (1946),Native 4K,HDR10,Dolby Vision,Dolby True-HD 2.0 Mono,1946,1990
+Jaws (1975),Native 4K,HDR10+,Dolby Vision,"Dolby Atmos, True-HD 7.1",1975,2001
+Jurassic Park (1993),Native 4K,HDR,,"DTS: X, 7.1 DTS HD-MA",1993,2018
+Lawrence of Arabia (1962),Native 4K,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1962,1991
+Malcolm X (1992),Native 4K,HDR10,Dolby Vision,DTS-HD MA 5.1,1992,2010
+My Fair Lady (1964),Native 4K,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1964,2018
+Pulp Fiction (1994),Native 4K,HDR10,,,1994,2013
+Raiders of the Lost Ark (1981),Native 4K,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1981,1999
+Saving Private Ryan (1998),Native 4K,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1998,2014
+Shadow of a Doubt (1943),Native 4K,HDR10,,DTS-HD Master Audio 2.0 Mono,1943,1991
+Singin' in the Rain (1952),Native 4K,HDR10,,5.1 DTS-HD-MA,1952,1989
+Some Like It Hot (1959),Native 4K,HDR10,Dolby Vision,DTS-HD MA 2.0 Mono,1959,1989
+Spartacus (1960),Native 4K,HDR10,Dolby Vision,"DTS:X, DTS-HD MA 7.1",1960,2017
+The Bridge on the River Kwai (1957),Native 4K,HDR,Dolby Vision,"Dolby Atmos, True-HD 7.1",1957,1997
+The Goonies (1985),Native 4K,HDR10,,5.1 DTS-HD-MA,1985,2017
+The Invisible Man (1933),Native 4K,HDR10,,DTS-HD MA Mono,1933,2008
+The Man Who Shot Liberty Valance (1962),Native 4K,HDR10,Dolby Vision,True-HD 5.1,1962,2007
+The Matrix (1999),Native 4K,HDR,Dolby Vision,"Dolby Atmos, True-HD 7.1",1999,2012
+The Shining (1980),Native 4K,HDR10+,Dolby Vision,DTS-HD MA 5.1,1980,2018
+The Silence of The Lambs (1991),Native 4K,HDR,Dolby Vision,5.1 DTS-HD-MA,1991,2011
+The Sting (1973),Native 4K,HDR10,,DTS-HD MA 5.1,1973,2005
+The Ten Commandments (1956),Native 4K,HDR10,Dolby Vision,DTS-HD MA 5.1,1956,1999
+The Wizard of Oz (1939),Native 4K,HDR10+,Dolby Vision,DTS-HD MA 5.1,1939,1989
+To Kill A Mockingbird (1962),Native 4K,HDR10,,5.1 DTS-HD MA,1962,1995
+Top Gun (1986),Native 4K,HDR10,Dolby Vision,"Dolby Atmos, True-HD 7.1",1986,2015
+Touch of Evil (1958),Native 4K,HDR10,Dolby Vision,DTS-HD Master Audio 2.0 Mono,1958,1993
